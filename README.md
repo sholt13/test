@@ -1,7 +1,9 @@
-# This is my first edit in terminal 
-## I hope this works very well 
-My Goal is to create a list 
-* This is the first part of the list 
-* This is the second part of the list 
- * I want to create a "quote code" 
-  * I want to use `git push` to move my changes to GitHub 
+# This is another test 
+## I messsed up on the first one 
+It would be **VERY** **NICE** if this workd 
+* Subject number one 
+* Subject number two 
+  *Here is where I put the important `code`
+As they always say 
+> Practice makes perfect
+
