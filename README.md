@@ -12,4 +12,4 @@ Hopefully what they say is true:
 > Practice makes perfect!
 
 ___
-[X] LEARN .MD EDITING IN TERMINAL
+ 
